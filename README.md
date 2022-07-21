@@ -1,2 +1,2 @@
 # toko_beras
-Project Submission yang belum kelar
+Project Submission pemula
